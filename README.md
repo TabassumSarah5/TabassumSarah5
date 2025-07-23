@@ -21,7 +21,9 @@ I specialize in transforming business needs into actionable insights and interac
 - [Lab Operations BI Dashboard (Thyrocare)](https://github.com/TabassumSarah5/Thyrocare-BI-KPIs)
 
 ### 📫 Connect With Me  
-[LinkedIn](https://www.linkedin.com/in/tabassum-sarah-4b1289292/) | [Email](mailto:tabassumsarah08@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tabassum-sarah-4b1289292/)  
+- 📧 Email: tabassumsarah08@gmail.com
+
 
 > “Data-driven clarity is the foundation of strategic decision-making.”
 
