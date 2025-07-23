@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tabassum Sarah
 
 🎯 **Technical Business Analyst | Power BI Developer | AI-Driven Solutions Enthusiast**  
-📍 Based in Houston, TX | 🌐 Open to Remote and Hybrid Roles  
+📍 Based in Houston, TX | 🌐 Open to Fulltime, Remote and Hybrid Roles  
 📊 5+ Years of Experience | Agile | Power BI | SQL | Dynamics 365 | Documentation | Data Visualization
 
 ---
